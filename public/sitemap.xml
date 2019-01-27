@@ -4,123 +4,23 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+      <loc>/presentations/open-data/</loc>
+      <lastmod>2019-01-24T00:00:00+01:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+      <loc>/presentations/brno-data/</loc>
+      <lastmod>2019-01-24T00:00:00+01:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
+      <loc>/slides/brno-data/</loc>
     </url>
     
   
@@ -135,18 +35,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>/slides/open-data/</loc>
     </url>
     
   
@@ -154,7 +43,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <lastmod>2019-01-24T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,8 +51,8 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <loc>/presentations/</loc>
+      <lastmod>2019-01-24T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,7 +61,6 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,15 +76,25 @@
     
     <url>
     
-      <loc>/slides/example-slides/</loc>
+      <loc>/tags/</loc>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <loc>/tags/brno/</loc>
+      <lastmod>2019-01-24T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/open-data/</loc>
+      <lastmod>2019-01-24T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

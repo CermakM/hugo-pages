@@ -1,628 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevConf.cz 2019 on DevConf.cz 2019</title>
+    <title>Personal GitHub Pages on Personal GitHub Pages</title>
     <link>/</link>
-    <description>Recent content in DevConf.cz 2019 on DevConf.cz 2019</description>
+    <description>Recent content in Personal GitHub Pages on Personal GitHub Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      <title>Open Data</title>
+      <link>/presentations/open-data/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/project/external-project/</guid>
+      <guid>/presentations/open-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Brno Data</title>
+      <link>/presentations/brno-data/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <guid>/presentations/brno-data/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
-
-&lt;p&gt;Follow our easy &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34;&gt;step by step guide&lt;/a&gt; to learn how to build your own free website with Academic. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the personal demo&lt;/a&gt; or the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;business demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>/slides/example-slides/</link>
+      <title>Brno Data</title>
+      <link>/slides/brno-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example-slides/</guid>
+      <guid>/slides/brno-data/</guid>
       <description>
 
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+&lt;h1 id=&#34;brno-data&#34;&gt;Brno Data&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;hashtag-brno2050&#34; style=&#34;font-family: Hashtag; font-size: 4rem;&#34;&gt;
+  &lt;a href=&#34;https://www.instagram.com/explore/tags/brno2050/&#34;&gt; #brno2050 &lt;/a&gt;
+&lt;/div&gt;
 
-&lt;hr /&gt;
 
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;div class=&#34;slides-nav&#34; style=&#34;margin-top: 7%;&#34;&gt;
 
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+  
+    
+    &lt;div class=&#34;goto prev fig-col&#34;&gt;
+    &lt;div class=&#34;fig-img&#34;&gt;
+    &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+      &lt;a href=&#39;/slides/open-data/&#39;&gt;
+      &lt;i class=&#34;fas fa-backward&#34;&gt;&lt;/i&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;fig-caption&#34;&gt;
+      &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/slides/open-data/&#39;&gt;Open Data&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  
 
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;div class=&#34;goto next fig-col&#34;&gt;
+  &lt;div class=&#34;fig-img&#34;&gt;
+  &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+    &lt;a href=&#39;/&#39;&gt;
+    &lt;i class=&#34;fas fa-home&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;
+    &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/&#39;&gt;Home&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
 
-&lt;hr /&gt;
+  
+    
+    &lt;div class=&#34;goto next fig-col&#34;&gt;
+    &lt;div class=&#34;fig-img&#34;&gt;
+    &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+      &lt;a href=&#39;/home/contact/&#39;&gt;
+      &lt;i class=&#34;fas fa-forward&#34;&gt;&lt;/i&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;fig-caption&#34;&gt;
+      &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/home/contact/&#39;&gt;Contact&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  
 
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;hr /&gt;
 
@@ -630,41 +102,1154 @@ $$&lt;/p&gt;
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;/img/boards.jpg&#34;
+      class=&#34;align-center&#34;
   &gt;
 
 
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-data-brno&#34;&gt;What is DATA.BRNO?&lt;/h2&gt;
 
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;a href=&#34;https://data.brno.cz/en/&#34; target=&#34;_blank&#34;&gt;DATA.BRNO.cz&lt;/a&gt; is an open platform for sharing data of the city of Brno.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/span&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;This portal is designed to be used by public including citizens, entrepreneurs, students, researchers and professionals, as well as journalists and developers.&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;align-center&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;why&#34;&gt;WHY?&lt;/h2&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;Data is our &lt;em&gt;&amp;ldquo;new urban wealth&amp;rdquo;&lt;/em&gt; and we need to use it to full capacity.&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;align-center&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;where-data-comes-from&#34;&gt;Where data comes from?&lt;/h2&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;Data are mainly collected by the city itself, and by the city companies and other providers.&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;align-center&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;what&#34;&gt;WHAT?&lt;/h2&gt;
+
+&lt;div id=&#34;brno-data-gallery&#34; class=&#34;fig-gallery&#34;&gt;
+&lt;div class=&#34;fig-row&#34;&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-ekonomika_trh_prace.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;Economy&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-zdravi_zivotni_prostredi.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;Health &amp;amp; Environment&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-doprava.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;Transport&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-lide_bydleni.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;People &amp;amp; Housing&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&#34;fig-row&#34;&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-vzdelani.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;Education&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-technicka_infrastruktura.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;Infrastructure&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-bezpecnost.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;Safety&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+  &lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;div class=&#34;fig-img&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-mesto.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;City&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;blockquote&gt;
+&lt;p&gt;💡 You can find not only datasets but also several useful apps and articles.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;/span&gt;
+
+&lt;hr /&gt;
+
+&lt;section data-shortcode-section&gt;
+&lt;h2 id=&#34;words-of-pride&#34;&gt;Words of pride&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;step-in-the-right-direction&#34;&gt;Step in the right direction&lt;/h3&gt;
+
+&lt;div class=&#34;hashtag-brno2050&#34; style=&#34;font-family: Hashtag; font-size: 4rem;&#34;&gt;
+  &lt;a href=&#34;https://www.instagram.com/explore/tags/brno2050/&#34;&gt; #brno2050 &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;the-dashboard&#34;&gt;The dashboard&lt;/h3&gt;
+
+&lt;div class=&#34;fig-img&#34;&gt;
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/brno-data-dashboard.png&#34; alt=&#34;Image source: https://data.brno.cz/en/&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;responsive-and-helpful-administrators&#34;&gt;Responsive and helpful administrators&lt;/h3&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+&lt;section data-shortcode-section&gt;
+&lt;h3 id=&#34;words-of-criticism&#34;&gt;Words of criticism&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;the-5-standards-are-not-always-met&#34;&gt;The 5★ standards are not always met&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;data-distribution-could-be-better&#34;&gt;Data distribution could be better&lt;/h3&gt;
+
+&lt;div class=&#34;fig-img&#34;&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;figure&gt;
+
+&lt;img src=&#34;/img/brno-data-distribution.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;library(tidyverse)
+
+dat &amp;lt;- readxl::read_xlsx(&amp;quot;datasets/brno_data/criminality/raw/trestni_cinnost_2016.xlsx&amp;quot;)
+colnames(dat)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;# &amp;gt; [1] &amp;quot;Útvar městské části (okres) PČR&amp;quot;
+# &amp;gt; [2] &amp;quot;Základní útvar PČR, kde došlo k činu&amp;quot;
+# &amp;gt; [3] &amp;quot;Stadium TČ, 1-příparava, 2-pokus, 3-dokonaný&amp;quot;
+# &amp;gt; [4] &amp;quot;Druh TČ, 11-zločin, 18-přečin&amp;quot;
+# &amp;gt; [5] &amp;quot;Takticko-statistická klasifikace činu&amp;quot;
+# &amp;gt; [6] &amp;quot;Spácháno na ulici-1, ne-2&amp;quot;
+# &amp;gt; [7] &amp;quot;Čin spáchán na : viz číselník&amp;quot;
+# &amp;gt; [8] &amp;quot;Použití zbraně : viz číselník&amp;quot;
+# &amp;gt; [9] &amp;quot;Druh použité zbraně : viz číselník&amp;quot;
+# &amp;gt; [10] &amp;quot;Datum spáchání činu, či zahájení konání&amp;quot;
+# &amp;gt; [11] &amp;quot;Datum ukončení konání činu (pokud jiné datum)&amp;quot;
+# &amp;gt; [12] &amp;quot;Předmět zájmu pachatele č. 1&amp;quot;
+# &amp;gt; [13] &amp;quot;Předmět zájmu pachatele nebo vztah pachatele k oběti - text&amp;quot;
+# &amp;gt; [14] &amp;quot;Předmět zájmu pachatele č. 2&amp;quot;
+# &amp;gt; [15] &amp;quot;Předmět zájmu pachatele nebo vztah pachatele k oběti - text__1&amp;quot;
+# &amp;gt; [16] &amp;quot;Předmět zájmu pachatele č. 3&amp;quot;
+# &amp;gt; [17] &amp;quot;Předmět zájmu pachatele nebo vztah pachatele k oběti - text__2&amp;quot;
+# &amp;gt; [18] &amp;quot;Celková způsobená škoda v Kč&amp;quot;
+# &amp;gt; [19] &amp;quot;Hlavní kvalifikace činu - paragraf TZ&amp;quot;
+# &amp;gt; [20] &amp;quot;První odstavec&amp;quot;
+# &amp;gt; [21] &amp;quot;Druhý odstavec&amp;quot;
+# &amp;gt; [22] &amp;quot;Souběhový paragraf&amp;quot;
+# &amp;gt; [23] &amp;quot;Odstavec souběhu&amp;quot;
+# &amp;gt; [24] &amp;quot;Druhý souběhový paragraf&amp;quot;
+# &amp;gt; [25] &amp;quot;Odstavec souběhu__1&amp;quot;
+# &amp;gt; [26] &amp;quot;Datum zahájení trestního řízení&amp;quot;
+# &amp;gt; [27] &amp;quot;Datum ukončení trestního řízení&amp;quot;
+# &amp;gt; [28] &amp;quot;Způsob ukončení trestního řízení&amp;quot;
+# &amp;gt; [29] &amp;quot;Způsob ukončení trestního řízení - text (kde je kód \&amp;quot;0\&amp;quot; tam ještě řízení nemusí být ukončeno&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;h3 id=&#34;poor-ontology-schema-or-inconsistency-in-data&#34;&gt;Poor ontology / schema or inconsistency in data&lt;/h3&gt;
 
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+  &lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;dat$`Předmět.zájmu.pachatele.nebo.vztah.pachatele.k.oběti&amp;hellip;text` %&amp;gt;%
+  factor() %&amp;gt;%
+  levels()
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
 
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;# &amp;gt;   [1] &amp;quot;airbagy&amp;quot;                                              &amp;quot;antiradary&amp;quot;
+# &amp;gt;   [3] &amp;quot;bankomaty&amp;quot;                                            &amp;quot;barevné kovy,výrobky a odpad z nich&amp;quot;
+# &amp;gt;   [5] &amp;quot;bez vztahu&amp;quot;                                           &amp;quot;bílé rase&amp;quot;
+# &amp;gt;   [7] &amp;quot;bižuterie&amp;quot;                                            &amp;quot;bratr&amp;quot;
+# &amp;gt;   ...
+# &amp;gt;  [23] &amp;quot;dítě ve vzdál.poměru (synovec,neteř...)&amp;quot;              &amp;quot;dítě ve vzt. ke známé osobě (soused,známý)&amp;quot;
+# &amp;gt;  [25] &amp;quot;dítě ve vztahu spolužáka,kamaráda&amp;quot;                    &amp;quot;dítě,kde jeden z rodičů je druh-družka,přítel&amp;quot;
+# &amp;gt;  ....
+# &amp;gt;  [95] &amp;quot;manžel&amp;quot;                                               &amp;quot;manželka&amp;quot;
+# &amp;gt;  [97] &amp;quot;masné konzervy a hotová jídla v konzervách&amp;quot;           &amp;quot;matka&amp;quot;
+# &amp;gt;  ....
+# &amp;gt; [115] &amp;quot;nátěrové hmoty,latexy,klihy,lepidla,barviva&amp;quot;          &amp;quot;nic&amp;quot;
+# &amp;gt; .....
+# &amp;gt; [145] &amp;quot;ostatní - zásilky a přepravované věci&amp;quot;                &amp;quot;ostatní - zbraně /mimo historických/&amp;quot;
+# &amp;gt; [147] &amp;quot;ostatní - zemědělské výrobky a výr. těžby dřeva&amp;quot;      &amp;quot;ostatní - zvířectvo včetně včelstva&amp;quot;
+# &amp;gt; [149] &amp;quot;ostatní -osobní doklady a předtisky&amp;quot;                  &amp;quot;ostatní -starožitnosti, umělecké předměty&amp;quot;
+# &amp;gt; [151] &amp;quot;ostatní -tabákové výrobky&amp;quot;                            &amp;quot;ostatní (kopie filmů,hračky,společen.hry)&amp;quot;
+# &amp;gt; .....
+# &amp;gt; [243] &amp;quot;vniknutí do obydlí za užití lsti - útoky na senior&amp;quot;   &amp;quot;výbušniny a pyrotech. výrobky&amp;quot;
+# &amp;gt; .....
+# &amp;gt; [261] &amp;quot;zlato zpracované a klenoty,šperky&amp;quot;                    &amp;quot;žlutohnědé rase / indiáni, asiati, australští dom.&amp;quot;
+# &amp;gt; [263] &amp;quot;zobrazovací zařízení /terminál,monitor/&amp;quot;              &amp;quot;zvěř spárkatá /tuzemská/&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;h3 id=&#34;still-not-enough-data&#34;&gt;Still not enough data&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I.e., data that is expected to be present, is not:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;city state reports in machine-readable format&lt;/li&gt;
+&lt;li&gt;population data&lt;/li&gt;
+&lt;li&gt;transport data&lt;/li&gt;
+&lt;li&gt;urban grid (?)&lt;/li&gt;
+&lt;li&gt;shapefiles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;important-data-not-available-in-machine-readable-format&#34;&gt;Important data not available in machine readable format&lt;/h3&gt;
+
+&lt;div class=&#34;fig-img&#34;&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;figure&gt;
+
+&lt;img src=&#34;/img/brno-data-pdf.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;sometimes-too-user-friendly&#34;&gt;Sometimes, too &lt;em&gt;&amp;ldquo;user friendly&amp;rdquo;&lt;/em&gt;&lt;/h3&gt;
+
+&lt;div class=&#34;fig-img&#34;&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;figure&gt;
+
+&lt;img src=&#34;/img/brno-data-user-friendly.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;dashboard-applications-built-on-proprietary-software-esri-https-www-esri-com-en-us-home0&#34;&gt;Dashboard Applications built on proprietary software (&lt;a href=&#34;https://www.esri.com/en-us/home0&#34; target=&#34;_blank&#34;&gt;ESRI&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;most-of-the-data-available-in-czech-language-only&#34;&gt;Most of the data available in Czech language only&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;hard-to-navigate-from-applications-to-datasets&#34;&gt;Hard to navigate from applications to datasets&lt;/h3&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;call-to-arms&#34;&gt;Call to arms&lt;/h2&gt;
+
+&lt;p&gt;Go to &lt;a href=&#34;https://data.brno.cz/&#34; target=&#34;_blank&#34;&gt;DATA.BRNO&lt;/a&gt;, and:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;take a look at the apps&lt;/li&gt;
+&lt;li&gt;see which data sets are offered&lt;/li&gt;
+&lt;li&gt;take your time to explore and &lt;em&gt;play&lt;/em&gt; with the data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;br&gt;
+and most importantly:&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;ul&gt;
+&lt;li&gt;give your &lt;a href=&#34;https://data.brno.cz/feedback/&#34; target=&#34;_blank&#34;&gt;feedback&lt;/a&gt; if something is (not) right&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/span&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;faq&#34;&gt;FAQ&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;thank-you&#34;&gt;Thank You!&lt;/h1&gt;
+
+
+
+
+&lt;div class=&#34;slides-nav&#34; style=&#34;margin-top: 7%;&#34;&gt;
+
+  
+    
+    &lt;div class=&#34;goto prev fig-col&#34;&gt;
+    &lt;div class=&#34;fig-img&#34;&gt;
+    &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+      &lt;a href=&#39;/slides/open-data/&#39;&gt;
+      &lt;i class=&#34;fas fa-backward&#34;&gt;&lt;/i&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;fig-caption&#34;&gt;
+      &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/slides/open-data/&#39;&gt;Open Data&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  
+
+  &lt;div class=&#34;goto next fig-col&#34;&gt;
+  &lt;div class=&#34;fig-img&#34;&gt;
+  &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+    &lt;a href=&#39;/&#39;&gt;
+    &lt;i class=&#34;fas fa-home&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;
+    &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/&#39;&gt;Home&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+
+  
+    
+    &lt;div class=&#34;goto next fig-col&#34;&gt;
+    &lt;div class=&#34;fig-img&#34;&gt;
+    &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+      &lt;a href=&#39;/home/contact/&#39;&gt;
+      &lt;i class=&#34;fas fa-forward&#34;&gt;&lt;/i&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;fig-caption&#34;&gt;
+      &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/home/contact/&#39;&gt;Contact&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;!--
+## Themes
+
+- black: Black background, white text, blue links (default)
+- white: White background, black text, blue links
+- league: Gray background, white text, blue links
+- beige: Beige background, dark text, brown links
+- sky: Blue background, thin dark text, blue links
+- night: Black background, thick white text, orange links
+- serif: Cappuccino background, gray text, brown links
+- simple: White background, black text, blue links
+- solarized: Cream-colored background, dark green text, blue links
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>/slides/open-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/open-data/</guid>
+      <description>
+
+&lt;!-- source: https://opendata.gov.cz/informace:start --&gt;
+
+&lt;h1 id=&#34;open-data&#34;&gt;Open Data&lt;/h1&gt;
+
+
+
+
+&lt;div class=&#34;slides-nav&#34; style=&#34;margin-top: 7%;&#34;&gt;
+
+  
+
+  &lt;div class=&#34;goto next fig-col&#34;&gt;
+  &lt;div class=&#34;fig-img&#34;&gt;
+  &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+    &lt;a href=&#39;/&#39;&gt;
+    &lt;i class=&#34;fas fa-home&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;
+    &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/&#39;&gt;Home&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+
+  
+    
+    &lt;div class=&#34;goto next fig-col&#34;&gt;
+    &lt;div class=&#34;fig-img&#34;&gt;
+    &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+      &lt;a href=&#39;/slides/brno-data/&#39;&gt;
+      &lt;i class=&#34;fas fa-forward&#34;&gt;&lt;/i&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;fig-caption&#34;&gt;
+      &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/slides/brno-data/&#39;&gt;Brno Data&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+
+
+&lt;hr /&gt;
+
+
+
+
+
+
+
+
+
+  &lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+
+&lt;p&gt;Open data is according to the &lt;a href=&#34;https://www.zakonyprolidi.cz/cs/1999-106#p3-11&#34; target=&#34;_blank&#34;&gt;§ 3 odst. 11 zákona č. &lt;sup&gt;106&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1999&lt;/sub&gt; Sb. o svobodném přístupu
+k informacím&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Information published such that it allows for remote access in open, &lt;strong&gt;machine-readable format&lt;/strong&gt; which purpose and further usage is &lt;strong&gt;in no way limited&lt;/strong&gt; and which is &lt;strong&gt;registered&lt;/strong&gt; in national open data catalogue.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+&lt;hr /&gt;
+
+
+
+
+
+
+
+
+
+  &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;p&gt;The following requirements &lt;strong&gt;must&lt;/strong&gt; be met:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Availability in convenient machine-readable open format&lt;/li&gt;
+&lt;li&gt;Access is not restricted or conditioned (ie., by registration) and reuse is permitted&lt;/li&gt;
+&lt;li&gt;Registered in national open data catalogue with direct data links&lt;/li&gt;
+&lt;li&gt;Curated, contact to the curator is provided for feedback or requests&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;Actuality&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/open-data-requirements.png&#34; alt=&#34;Image source: https://www.webfirst.com/services/open-data-solutions&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+
+
+
+
+
+
+
+
+  &lt;h2 id=&#34;what-is-not-open-data&#34;&gt;What is &lt;em&gt;not&lt;/em&gt; Open Data?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web service with limited access number&lt;/li&gt;
+&lt;li&gt;Data in PDF format&lt;/li&gt;
+&lt;li&gt;Data in XLS print-formated&lt;/li&gt;
+&lt;li&gt;Data in pseudo-CSV (like TSV), ie. non-standard format&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;hr /&gt;
+
+
+
+
+  &lt;h2 id=&#34;5-open-data&#34;&gt;5★ Open Data&lt;/h2&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;stage 1 - data is accessible on the internet with specific usage conditions&lt;/li&gt;
+&lt;li&gt;stage 2 - data is in machine-readable format&lt;/li&gt;
+&lt;li&gt;stage 3 - data is in &lt;em&gt;open&lt;/em&gt; machine-readable format, that is with open specification&lt;/li&gt;
+&lt;li&gt;stage 4:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IRI (Internetional Resource Identifier) entities in the data,&lt;/li&gt;
+&lt;li&gt;example: distribution of books should have entities like author, or publisher accompanied by IRI specificator&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;stage 5:
+
+&lt;ul&gt;
+&lt;li&gt;data follows &lt;em&gt;Linked data&lt;/em&gt; format, that is a structured data which can be interlinked to become more useful through semantic queries.&lt;/li&gt;
+&lt;li&gt;builds upon standard Web technologies (HTTP, RDF)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Distribution of data: The way of opening op the data, concrete data format&lt;/p&gt;
+
+&lt;p&gt;Ontology (dictionary): conceptual schema of the data, defines classes and attributes that can be used in RDF&lt;/p&gt;
+
+&lt;p&gt;IRI: International Resource Identifier
+RDF: Resource Distribution Framework&lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/open-data-steps.png&#34; alt=&#34;Image source: https://5stardata.info/cs/&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;💡 Tip: Read more on &lt;a href=&#34;https://5stardata.info/cs/&#34; target=&#34;_blank&#34;&gt;https://5stardata.info/cs/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+&lt;hr /&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;Note that we can consider data to be open-ish since the ★★★&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/aside&gt;
+
+&lt;h2 id=&#34;5-open-data&#34;&gt;5★ Open Data&lt;/h2&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;★        make your stuff available on the Web (whatever format) under an open license ⚠&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;★★       make it available as structured data (e.g., Excel instead of image scan of a table) ⚠&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;★★★      make it available in a non-proprietary open format (e.g., CSV instead of Excel)&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;★★★★     use URIs to denote things, so that people can point at your stuff&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;★★★★★    link your data to other data to provide context&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;blockquote&gt;
+&lt;p&gt;⚠ Note that we can consider data to be open-ish since the ★★★&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;/span&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;no-list&#34;
+  &gt;
+
+
+&lt;section data-shortcode-section&gt;
+&lt;p&gt;&lt;h2 id=&#34;what-are-the-costs-benefits-of-web-data&#34;&gt;What are the costs &amp;amp; benefits of ★ Web data?&lt;/h2&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-consumer&#34;&gt;As a consumer …&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ You can look at it.&lt;/li&gt;
+&lt;li&gt;✔ You can print it.&lt;/li&gt;
+&lt;li&gt;✔ You can store it locally (on your hard drive or on an USB stick).&lt;/li&gt;
+&lt;li&gt;✔ You can enter the data into any other system.&lt;/li&gt;
+&lt;li&gt;✔ You can change the data as you wish.&lt;/li&gt;
+&lt;li&gt;✔ You can share the data with anyone you like.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-publisher&#34;&gt;As a publisher …&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ It’s simple to publish.&lt;/li&gt;
+&lt;li&gt;✔ You do not have explain repeatedly to others that they can use your data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;no-list&#34;
+  &gt;
+
+
+&lt;section data-shortcode-section&gt;
+&lt;p&gt;&lt;h2 id=&#34;what-are-the-costs-benefits-of-web-data&#34;&gt;What are the costs &amp;amp; benefits of ★★ Web data?&lt;/h2&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-consumer&#34;&gt;As a consumer …&lt;/h4&gt;
+
+&lt;p&gt;you can do all what you can do with ★ Web data and additionally:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ You can directly process it with proprietary software to aggregate it, perform calculations, visualise it, etc.&lt;/li&gt;
+&lt;li&gt;✔ You can export it into another (structured) format.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-publisher&#34;&gt;As a publisher …&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ It’s still simple to publish.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;no-list&#34;
+  &gt;
+
+
+&lt;section data-shortcode-section&gt;
+&lt;p&gt;&lt;h2 id=&#34;what-are-the-costs-benefits-of-web-data&#34;&gt;What are the costs &amp;amp; benefits of ★★★ Web data?&lt;/h2&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-consumer&#34;&gt;As a consumer …&lt;/h4&gt;
+
+&lt;p&gt;you can do all what you can do with ★★ Web data and additionally:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ You can manipulate the data in any way you like, without the need to own any prorietary software package.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-publisher&#34;&gt;As a publisher …&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ It’s still rather simple to publish.&lt;/li&gt;
+&lt;li&gt;⚠ You might need converters or plug-ins to export the data from the proprietary format.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;no-list&#34;
+  &gt;
+
+
+&lt;section data-shortcode-section&gt;
+&lt;p&gt;&lt;h2 id=&#34;what-are-the-costs-benefits-of-web-data&#34;&gt;What are the costs &amp;amp; benefits of ★★★★ Web data?&lt;/h2&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-consumer&#34;&gt;As a consumer …&lt;/h4&gt;
+
+&lt;p&gt;you can do all what you can do with ★★★ Web data and additionally:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ You can link to it from any other place (on the Web or locally).&lt;/li&gt;
+&lt;li&gt;✔ You can bookmark it.&lt;/li&gt;
+&lt;li&gt;✔ You can reuse parts of the data.&lt;/li&gt;
+&lt;li&gt;✔ You may be able to reuse existing tools and libraries, even if they only understand parts of the pattern the publisher used.&lt;/li&gt;
+&lt;li&gt;✔ You can combine the data safely with other data. URIs are a global scheme so if two things have the same URI then it’s intentional, and if so that’s well on it’s way to being 5-star data!&lt;/li&gt;
+&lt;li&gt;⚠ Understanding the structure of an RDF “Graph” of data can be more effort than tabular (Excel/CSV) or tree (XML/JSON) data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-publisher&#34;&gt;As a publisher …&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ You have fine-granular control over the data items and can optimise their access (load balancing, caching, etc.)&lt;/li&gt;
+&lt;li&gt;✔ Other data publishers can now link into your data, promoting it to 5 star!&lt;/li&gt;
+&lt;li&gt;⚠ You typically invest some time slicing and dicing your data.&lt;/li&gt;
+&lt;li&gt;⚠ You’ll need to assign URIs to data items and think about how to represent the data.&lt;/li&gt;
+&lt;li&gt;⚠ You need to either find existing patterns to reuse or create your own.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;no-list&#34;
+  &gt;
+
+
+&lt;section data-shortcode-section&gt;
+&lt;p&gt;&lt;h2 id=&#34;what-are-the-costs-benefits-of-web-data&#34;&gt;What are the costs &amp;amp; benefits of ★★★★★ Web data?&lt;/h2&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-consumer&#34;&gt;As a consumer …&lt;/h4&gt;
+
+&lt;p&gt;you can do all what you can do with ★★★★ Web data and additionally:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ You can discover more (related) data while consuming the data.&lt;/li&gt;
+&lt;li&gt;✔ You can directly learn about the data schema.&lt;/li&gt;
+&lt;li&gt;⚠ You now have to deal with broken data links, just like 404 errors in web pages.&lt;/li&gt;
+&lt;li&gt;⚠ Presenting data from an arbitrary link as fact is as risky as letting people include content from any website in your pages. Caution, trust and common sense are all still necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;as-a-publisher&#34;&gt;As a publisher …&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;✔ You make your data discoverable.&lt;/li&gt;
+&lt;li&gt;✔ You increase the value of your data.&lt;/li&gt;
+&lt;li&gt;✔ Your own organisation will gain the same benefits from the links as the consumers.&lt;/li&gt;
+&lt;li&gt;⚠ You’ll need to invest resources to link your data to other data on the Web.&lt;/li&gt;
+&lt;li&gt;⚠ You may need to repair broken or incorrect links.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      class=&#34;side-by-side&#34;
+  &gt;
+
+
+
+
+
+
+
+
+
+
+  &lt;h1 id=&#34;what-s-the-meaning-of-it&#34;&gt;What&amp;rsquo;s the meaning of it?&lt;/h1&gt;
+
+
+
+
+&lt;hr /&gt;
+
+&lt;!---
+&lt;section data-shortcode-section&gt;
+&lt;p&gt;&lt;h2 id=&#34;lifecycle&#34;&gt;Lifecycle&lt;/h2&gt;&lt;/p&gt;
+
+&lt;/section&gt;
+
+---&gt;
+
+&lt;section data-shortcode-section&gt;
+&lt;aside class=&#34;notes&#34;&gt;&lt;h4 id=&#34;transparency&#34;&gt;Transparency:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;data is becomming a tool for making public administration transparent&lt;/li&gt;
+&lt;li&gt;open decision framework&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OPEN GOVERNMENT&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;infrastructure&#34;&gt;Infrastructure:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;important to understand that in the digital age, it&amp;rsquo;s not just government data.. there is a whole range of information that is created by our surroundings (like &lt;em&gt;IOT&lt;/em&gt;). This kind of information may introduce correlations the wouldn&amp;rsquo;t be immediately apperent and may lead to important decisions and changes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SMART CITIES&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;normalization&#34;&gt;Normalization:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;making data publicly available is considered &amp;ldquo;normal&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;understanding the data and its usage&lt;/li&gt;
+&lt;li&gt;targetting public&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DATA STORIES&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;lifecycle&#34;&gt;Lifecycle&lt;/h2&gt;&lt;/p&gt;
+
+&lt;div class=&#34;fig-row&#34;&gt;
+
+&lt;div class=&#34;fig-img&#34;&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-transparency.png&#34; alt=&#34;Image source: http://sportsrecruits.com/images/sr_otg/club_transparency_icon.svg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+&lt;div class=&#34;fig-caption&#34;&gt;Transparency&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;fig-img&#34;&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-infrastructure.png&#34; alt=&#34;Image source: http://chittagongit.com/icon/infrastructure-icon-11.html&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+&lt;div class=&#34;fig-caption&#34;&gt;Infrastructure&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;fig-img&#34;&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/icon-norm.png&#34; alt=&#34;Image source: https://res.cloudinary.com/logrhythm/image/upload/c_scale,w_250/v1534437608/icons/nextgen-siem-data-processing-icon.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/figure&gt;
+&lt;div class=&#34;fig-caption&#34;&gt;Normalization&lt;/div&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;economical-aspect&#34;&gt;Economical aspect&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;Open Data is convenient way to provide information. Creation of PDF files, web sites or applications requires additional costs which are usually not applicable when it comes to Open Data.&lt;/p&gt;
+
+&lt;p&gt;In principal, making data publicly available is merely posting them in its raw form (of course, remember the 5★).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;and-many-many-more&#34;&gt;And many, many more &amp;hellip;&lt;/h2&gt;
+
+&lt;/section&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;call-to-arms&#34;&gt;Call to arms&lt;/h2&gt;
+
+&lt;h5&gt; To be: &lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt;curious consumer&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt; smart architect&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt; responsible and aware publisher&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt; forthcoming maintainer&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;h5&gt; I don&#39;t think anymore, that: &lt;/h5&gt;
+
+&lt;/span&gt;
+
+&lt;ul&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt;open data is a buzzword I don&amp;rsquo;t really understand&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt;open data is any data published under open license&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt;I am satisfied with data being only in PDF&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;p&gt;&lt;li&gt;I can put the whole sentence as a column name and don&amp;rsquo;t piss anyone off&lt;/li&gt;&lt;/p&gt;
+
+&lt;/span&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;faq&#34;&gt;FAQ&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;thank-you&#34;&gt;Thank You!&lt;/h1&gt;
+
+
+
+
+&lt;div class=&#34;slides-nav&#34; style=&#34;margin-top: 7%;&#34;&gt;
+
+  
+
+  &lt;div class=&#34;goto next fig-col&#34;&gt;
+  &lt;div class=&#34;fig-img&#34;&gt;
+  &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+    &lt;a href=&#39;/&#39;&gt;
+    &lt;i class=&#34;fas fa-home&#34;&gt;&lt;/i&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;fig-caption&#34;&gt;
+    &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/&#39;&gt;Home&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+
+  
+    
+    &lt;div class=&#34;goto next fig-col&#34;&gt;
+    &lt;div class=&#34;fig-img&#34;&gt;
+    &lt;span style=&#34;font-size: $icon_size; color: Tomato; width: 30%;&#34; &gt;
+      &lt;a href=&#39;/slides/brno-data/&#39;&gt;
+      &lt;i class=&#34;fas fa-forward&#34;&gt;&lt;/i&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;fig-caption&#34;&gt;
+      &lt;a style=&#34;font-size: 0.7em;&#34; href=&#39;/slides/brno-data/&#39;&gt;Brno Data&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://opendata.gov.cz&#34; target=&#34;_blank&#34;&gt;https://opendata.gov.cz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://5stardata.info/en/&#34; target=&#34;_blank&#34;&gt;https://5stardata.info/en/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.webfirst.com/services/open-data-solutions&#34; target=&#34;_blank&#34;&gt;https://www.webfirst.com/services/open-data-solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://opendata.gov.cz/informace:d%C5%AFle%C5%BEit%C3%A9-pojmy-v-oblasti-otev%C5%99en%C3%BDch-dat&#34; target=&#34;_blank&#34;&gt;https://opendata.gov.cz/informace:d%C5%AFle%C5%BEit%C3%A9-pojmy-v-oblasti-otev%C5%99en%C3%BDch-dat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+## Themes
+
+- black: Black background, white text, blue links (default)
+- white: White background, black text, blue links
+- league: Gray background, white text, blue links
+- beige: Beige background, dark text, brown links
+- sky: Blue background, thin dark text, blue links
+- night: Black background, thick white text, orange links
+- serif: Cappuccino background, gray text, brown links
+- simple: White background, black text, blue links
+- solarized: Cream-colored background, dark green text, blue links
+--&gt;
 </description>
     </item>
     

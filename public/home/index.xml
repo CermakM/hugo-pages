@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on DevConf.cz 2019</title>
+    <title>Homes on Personal GitHub Pages</title>
     <link>/home/</link>
-    <description>Recent content in Homes on DevConf.cz 2019</description>
+    <description>Recent content in Homes on Personal GitHub Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>Have you heard of the term Open Data? Did you know that Brno provides Open Data? Do you know how to access them, how to handle them? How to properly visualize data and draw conclusions? And actually... what is the use of it? Let&amp;rsquo;s talk Open Data! Go to DevConf.cz   Star</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,9 +36,18 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am student of CS in the field of Artificial Intelligence, open source enthusiast and associate software engineer at Red Hat.
+      <description>Biography I am student of CS in the field of Artificial Intelligence and Data Science, open source enthusiast and associate software engineer at Red Hat.
 I like everything that is both smart and simple and yet can do complex stuff, hence AI/ML is my favourite subject. I am also very fond of Data Science and Data visualization, which I practice mainly in Python and R.
 I believe that there is no progress without being open to new things, same applies to letting things being open to others.</description>
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>/home/languages/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/home/languages/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -51,11 +60,11 @@ I believe that there is no progress without being open to new things, same appli
     </item>
     
     <item>
-      <title>Languages</title>
-      <link>/home/languages/</link>
+      <title>Programming in ...</title>
+      <link>/home/p_skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>/home/languages/</guid>
+      <guid>/home/p_skills/</guid>
       <description></description>
     </item>
     
@@ -69,15 +78,6 @@ I believe that there is no progress without being open to new things, same appli
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Accomplish&amp;shy;ments</title>
       <link>/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -87,47 +87,11 @@ I believe that there is no progress without being open to new things, same appli
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
+      <title>Presentations</title>
+      <link>/home/presentations/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chapters</title>
-      <link>/home/chapters/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/chapters/</guid>
+      <guid>/home/presentations/</guid>
       <description></description>
     </item>
     
@@ -138,17 +102,6 @@ I believe that there is no progress without being open to new things, same appli
       
       <guid>/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>

@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.3.0">
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/slides/open-data/">
+
+  <title>Open Data | Personal GitHub Pages</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/css/reveal.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/css/theme/white.min.css">
+
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github-gist.min.css" crossorigin="anonymous">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+
+  
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/css/print/pdf.css' : 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<!-- source: https://opendata.gov.cz/informace:start -->
+
+<h1 id="open-data">Open Data</h1>
+
+
+
+
+<div class="slides-nav" style="margin-top: 7%;">
+
+  
+
+  <div class="goto next fig-col">
+  <div class="fig-img">
+  <span style="font-size: $icon_size; color: Tomato; width: 30%;" >
+    <a href='/'>
+    <i class="fas fa-home"></i>
+    </a>
+  </span>
+  </div>
+  <div class="fig-caption">
+    <a style="font-size: 0.7em;" href='/'>Home</a>
+  </div>
+  </div>
+
+  
+    
+    <div class="goto next fig-col">
+    <div class="fig-img">
+    <span style="font-size: $icon_size; color: Tomato; width: 30%;" >
+      <a href='/slides/brno-data/'>
+      <i class="fas fa-forward"></i>
+      </a>
+    </span>
+    </div>
+    <div class="fig-caption">
+      <a style="font-size: 0.7em;" href='/slides/brno-data/'>Brno Data</a>
+    </div>
+    </div>
+  
+
+</div>
+
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  <h2 id="definition">Definition</h2>
+
+<p>Open data is according to the <a href="https://www.zakonyprolidi.cz/cs/1999-106#p3-11" target="_blank">§ 3 odst. 11 zákona č. <sup>106</sup>&frasl;<sub>1999</sub> Sb. o svobodném přístupu
+k informacím</a>:</p>
+
+<blockquote>
+<p>Information published such that it allows for remote access in open, <strong>machine-readable format</strong> which purpose and further usage is <strong>in no way limited</strong> and which is <strong>registered</strong> in national open data catalogue.</p>
+</blockquote>
+
+
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  <h2 id="requirements">Requirements</h2>
+
+<p>The following requirements <strong>must</strong> be met:</p>
+
+<ul>
+<li>Availability in convenient machine-readable open format</li>
+<li>Access is not restricted or conditioned (ie., by registration) and reuse is permitted</li>
+<li>Registered in national open data catalogue with direct data links</li>
+<li>Curated, contact to the curator is provided for feedback or requests</li>
+<li>Documentation</li>
+<li>Actuality</li>
+</ul>
+
+
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h2 id="requirements">Requirements</h2>
+
+
+
+
+  
+
+<figure>
+
+<img src="/img/open-data-requirements.png" alt="Image source: https://www.webfirst.com/services/open-data-solutions" />
+
+
+</figure>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  <h2 id="what-is-not-open-data">What is <em>not</em> Open Data?</h2>
+
+<ul>
+<li>Web service with limited access number</li>
+<li>Data in PDF format</li>
+<li>Data in XLS print-formated</li>
+<li>Data in pseudo-CSV (like TSV), ie. non-standard format</li>
+</ul>
+
+
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+
+
+
+  <h2 id="5-open-data">5★ Open Data</h2>
+
+<aside class="notes"><p><ul>
+<li>stage 1 - data is accessible on the internet with specific usage conditions</li>
+<li>stage 2 - data is in machine-readable format</li>
+<li>stage 3 - data is in <em>open</em> machine-readable format, that is with open specification</li>
+<li>stage 4:</p>
+
+<ul>
+<li>IRI (Internetional Resource Identifier) entities in the data,</li>
+<li>example: distribution of books should have entities like author, or publisher accompanied by IRI specificator</li>
+</ul></li>
+<li>stage 5:
+
+<ul>
+<li>data follows <em>Linked data</em> format, that is a structured data which can be interlinked to become more useful through semantic queries.</li>
+<li>builds upon standard Web technologies (HTTP, RDF)</li>
+</ul></li>
+</ul>
+
+<p>Distribution of data: The way of opening op the data, concrete data format</p>
+
+<p>Ontology (dictionary): conceptual schema of the data, defines classes and attributes that can be used in RDF</p>
+
+<p>IRI: International Resource Identifier
+RDF: Resource Distribution Framework</p>
+</aside>
+
+<figure>
+
+<img src="/img/open-data-steps.png" alt="Image source: https://5stardata.info/cs/" />
+
+
+</figure>
+
+<blockquote>
+<p>💡 Tip: Read more on <a href="https://5stardata.info/cs/" target="_blank">https://5stardata.info/cs/</a></p>
+</blockquote>
+
+
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<aside class="notes"><blockquote>
+<p>Note that we can consider data to be open-ish since the ★★★</p>
+</blockquote>
+</aside>
+
+<h2 id="5-open-data">5★ Open Data</h2>
+
+<span class="fragment " >
+  <p>★        make your stuff available on the Web (whatever format) under an open license ⚠</p>
+
+</span>
+
+<span class="fragment " >
+  <p>★★       make it available as structured data (e.g., Excel instead of image scan of a table) ⚠</p>
+
+</span>
+
+<span class="fragment " >
+  <p>★★★      make it available in a non-proprietary open format (e.g., CSV instead of Excel)</p>
+
+</span>
+
+<span class="fragment " >
+  <p>★★★★     use URIs to denote things, so that people can point at your stuff</p>
+
+</span>
+
+<span class="fragment " >
+  <p>★★★★★    link your data to other data to provide context</p>
+
+</span>
+
+<p><br></p>
+
+<span class="fragment " >
+  <blockquote>
+<p>⚠ Note that we can consider data to be open-ish since the ★★★</p>
+</blockquote>
+
+</span>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      
+
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      class="no-list"
+  >
+
+
+<section data-shortcode-section>
+<p><h2 id="what-are-the-costs-benefits-of-web-data">What are the costs &amp; benefits of ★ Web data?</h2></p>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-consumer">As a consumer …</h4>
+
+<ul>
+<li>✔ You can look at it.</li>
+<li>✔ You can print it.</li>
+<li>✔ You can store it locally (on your hard drive or on an USB stick).</li>
+<li>✔ You can enter the data into any other system.</li>
+<li>✔ You can change the data as you wish.</li>
+<li>✔ You can share the data with anyone you like.</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-publisher">As a publisher …</h4>
+
+<ul>
+<li>✔ It’s simple to publish.</li>
+<li>✔ You do not have explain repeatedly to others that they can use your data.</li>
+</ul>
+
+</section>
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      
+
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      class="no-list"
+  >
+
+
+<section data-shortcode-section>
+<p><h2 id="what-are-the-costs-benefits-of-web-data">What are the costs &amp; benefits of ★★ Web data?</h2></p>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-consumer">As a consumer …</h4>
+
+<p>you can do all what you can do with ★ Web data and additionally:</p>
+
+<ul>
+<li>✔ You can directly process it with proprietary software to aggregate it, perform calculations, visualise it, etc.</li>
+<li>✔ You can export it into another (structured) format.</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-publisher">As a publisher …</h4>
+
+<ul>
+<li>✔ It’s still simple to publish.</li>
+</ul>
+
+</section>
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      
+
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      class="no-list"
+  >
+
+
+<section data-shortcode-section>
+<p><h2 id="what-are-the-costs-benefits-of-web-data">What are the costs &amp; benefits of ★★★ Web data?</h2></p>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-consumer">As a consumer …</h4>
+
+<p>you can do all what you can do with ★★ Web data and additionally:</p>
+
+<ul>
+<li>✔ You can manipulate the data in any way you like, without the need to own any prorietary software package.</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-publisher">As a publisher …</h4>
+
+<ul>
+<li>✔ It’s still rather simple to publish.</li>
+<li>⚠ You might need converters or plug-ins to export the data from the proprietary format.</li>
+</ul>
+
+</section>
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      
+
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      class="no-list"
+  >
+
+
+<section data-shortcode-section>
+<p><h2 id="what-are-the-costs-benefits-of-web-data">What are the costs &amp; benefits of ★★★★ Web data?</h2></p>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-consumer">As a consumer …</h4>
+
+<p>you can do all what you can do with ★★★ Web data and additionally:</p>
+
+<ul>
+<li>✔ You can link to it from any other place (on the Web or locally).</li>
+<li>✔ You can bookmark it.</li>
+<li>✔ You can reuse parts of the data.</li>
+<li>✔ You may be able to reuse existing tools and libraries, even if they only understand parts of the pattern the publisher used.</li>
+<li>✔ You can combine the data safely with other data. URIs are a global scheme so if two things have the same URI then it’s intentional, and if so that’s well on it’s way to being 5-star data!</li>
+<li>⚠ Understanding the structure of an RDF “Graph” of data can be more effort than tabular (Excel/CSV) or tree (XML/JSON) data.</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-publisher">As a publisher …</h4>
+
+<ul>
+<li>✔ You have fine-granular control over the data items and can optimise their access (load balancing, caching, etc.)</li>
+<li>✔ Other data publishers can now link into your data, promoting it to 5 star!</li>
+<li>⚠ You typically invest some time slicing and dicing your data.</li>
+<li>⚠ You’ll need to assign URIs to data items and think about how to represent the data.</li>
+<li>⚠ You need to either find existing patterns to reuse or create your own.</li>
+</ul>
+
+</section>
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      
+
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      class="no-list"
+  >
+
+
+<section data-shortcode-section>
+<p><h2 id="what-are-the-costs-benefits-of-web-data">What are the costs &amp; benefits of ★★★★★ Web data?</h2></p>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-consumer">As a consumer …</h4>
+
+<p>you can do all what you can do with ★★★★ Web data and additionally:</p>
+
+<ul>
+<li>✔ You can discover more (related) data while consuming the data.</li>
+<li>✔ You can directly learn about the data schema.</li>
+<li>⚠ You now have to deal with broken data links, just like 404 errors in web pages.</li>
+<li>⚠ Presenting data from an arbitrary link as fact is as risky as letting people include content from any website in your pages. Caution, trust and common sense are all still necessary.</li>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h4 id="as-a-publisher">As a publisher …</h4>
+
+<ul>
+<li>✔ You make your data discoverable.</li>
+<li>✔ You increase the value of your data.</li>
+<li>✔ Your own organisation will gain the same benefits from the links as the consumers.</li>
+<li>⚠ You’ll need to invest resources to link your data to other data on the Web.</li>
+<li>⚠ You may need to repair broken or incorrect links.</li>
+</ul>
+
+</section>
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      
+
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      class="side-by-side"
+  >
+
+
+
+
+
+
+
+
+
+
+  <h1 id="what-s-the-meaning-of-it">What&rsquo;s the meaning of it?</h1>
+
+
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<!---
+<section data-shortcode-section>
+<p><h2 id="lifecycle">Lifecycle</h2></p>
+
+</section>
+
+--->
+
+<section data-shortcode-section>
+<aside class="notes"><h4 id="transparency">Transparency:</h4>
+
+<ul>
+<li>data is becomming a tool for making public administration transparent</li>
+<li>open decision framework</li>
+<li><strong>OPEN GOVERNMENT</strong></li>
+</ul>
+
+<h4 id="infrastructure">Infrastructure:</h4>
+
+<ul>
+<li>important to understand that in the digital age, it&rsquo;s not just government data.. there is a whole range of information that is created by our surroundings (like <em>IOT</em>). This kind of information may introduce correlations the wouldn&rsquo;t be immediately apperent and may lead to important decisions and changes</li>
+<li><strong>SMART CITIES</strong></li>
+</ul>
+
+<h4 id="normalization">Normalization:</h4>
+
+<ul>
+<li>making data publicly available is considered &ldquo;normal&rdquo;</li>
+<li>understanding the data and its usage</li>
+<li>targetting public</li>
+<li><strong>DATA STORIES</strong></li>
+</ul>
+</aside>
+
+<p><h2 id="lifecycle">Lifecycle</h2></p>
+
+<div class="fig-row">
+
+<div class="fig-img">
+<span class="fragment " >
+  <p><figure></p>
+
+<p><img src="/img/icon-transparency.png" alt="Image source: http://sportsrecruits.com/images/sr_otg/club_transparency_icon.svg" /></p>
+
+<p></figure>
+<div class="fig-caption">Transparency</div></p>
+
+</span>
+</div>
+
+<div class="fig-img">
+<span class="fragment " >
+  <p><figure></p>
+
+<p><img src="/img/icon-infrastructure.png" alt="Image source: http://chittagongit.com/icon/infrastructure-icon-11.html" /></p>
+
+<p></figure>
+<div class="fig-caption">Infrastructure</div></p>
+
+</span>
+</div>
+
+<div class="fig-img">
+<span class="fragment " >
+  <p><figure></p>
+
+<p><img src="/img/icon-norm.png" alt="Image source: https://res.cloudinary.com/logrhythm/image/upload/c_scale,w_250/v1534437608/icons/nextgen-siem-data-processing-icon.png" /></p>
+
+<p></figure>
+<div class="fig-caption">Normalization</div></p>
+
+</span>
+</div>
+
+<p></div></p>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<p><h2 id="economical-aspect">Economical aspect</h2></p>
+
+<p>Open Data is convenient way to provide information. Creation of PDF files, web sites or applications requires additional costs which are usually not applicable when it comes to Open Data.</p>
+
+<p>In principal, making data publicly available is merely posting them in its raw form (of course, remember the 5★).</p>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h2 id="and-many-many-more">And many, many more &hellip;</h2>
+
+</section>
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h2 id="call-to-arms">Call to arms</h2>
+
+<h5> To be: </h5>
+
+<ul>
+<span class="fragment " >
+  <p><li>curious consumer</li></p>
+
+</span>
+<span class="fragment " >
+  <p><li> smart architect</li></p>
+
+</span>
+<span class="fragment " >
+  <p><li> responsible and aware publisher</li></p>
+
+</span>
+<span class="fragment " >
+  <p><li> forthcoming maintainer</li></p>
+
+</span>
+</ul>
+
+<p><br></p>
+
+<span class="fragment " >
+  <h5> I don't think anymore, that: </h5>
+
+</span>
+
+<ul>
+<span class="fragment " >
+  <p><li>open data is a buzzword I don&rsquo;t really understand</li></p>
+
+</span>
+<span class="fragment " >
+  <p><li>open data is any data published under open license</li></p>
+
+</span>
+<span class="fragment " >
+  <p><li>I am satisfied with data being only in PDF</li></p>
+
+</span>
+<span class="fragment " >
+  <p><li>I can put the whole sentence as a column name and don&rsquo;t piss anyone off</li></p>
+
+</span>
+</ul>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h2 id="faq">FAQ</h2>
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h1 id="thank-you">Thank You!</h1>
+
+
+
+
+<div class="slides-nav" style="margin-top: 7%;">
+
+  
+
+  <div class="goto next fig-col">
+  <div class="fig-img">
+  <span style="font-size: $icon_size; color: Tomato; width: 30%;" >
+    <a href='/'>
+    <i class="fas fa-home"></i>
+    </a>
+  </span>
+  </div>
+  <div class="fig-caption">
+    <a style="font-size: 0.7em;" href='/'>Home</a>
+  </div>
+  </div>
+
+  
+    
+    <div class="goto next fig-col">
+    <div class="fig-img">
+    <span style="font-size: $icon_size; color: Tomato; width: 30%;" >
+      <a href='/slides/brno-data/'>
+      <i class="fas fa-forward"></i>
+      </a>
+    </span>
+    </div>
+    <div class="fig-caption">
+      <a style="font-size: 0.7em;" href='/slides/brno-data/'>Brno Data</a>
+    </div>
+    </div>
+  
+
+</div>
+
+
+
+
+    </section>
+    
+
+    
+    
+
+    
+      <section>
+    
+      
+
+<h2 id="resources">Resources</h2>
+
+<ul>
+<li><a href="https://opendata.gov.cz" target="_blank">https://opendata.gov.cz</a></li>
+<li><a href="https://5stardata.info/en/" target="_blank">https://5stardata.info/en/</a></li>
+<li><a href="https://www.webfirst.com/services/open-data-solutions" target="_blank">https://www.webfirst.com/services/open-data-solutions</a></li>
+<li><a href="https://opendata.gov.cz/informace:d%C5%AFle%C5%BEit%C3%A9-pojmy-v-oblasti-otev%C5%99en%C3%BDch-dat" target="_blank">https://opendata.gov.cz/informace:d%C5%AFle%C5%BEit%C3%A9-pojmy-v-oblasti-otev%C5%99en%C3%BDch-dat</a></li>
+</ul>
+
+<!--
+## Themes
+
+- black: Black background, white text, blue links (default)
+- white: White background, black text, blue links
+- league: Gray background, white text, blue links
+- beige: Beige background, dark text, brown links
+- sky: Blue background, thin dark text, blue links
+- night: Black background, thick white text, orange links
+- serif: Cappuccino background, gray text, brown links
+- simple: White background, black text, blue links
+- solarized: Cream-colored background, dark green text, blue links
+-->
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/lib/js/head.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/js/reveal.min.js"></script>
+
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+  <style>
+    .reveal i.fa, i.fas {
+      font-family: 'FontAwesome';
+      font-style: normal;
+    }
+  </style>
+
+  <script>
+    window.revealPlugins = { dependencies: [
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/plugin/zoom-js/zoom.js', async: true },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/plugin/math/math.js', async: true },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.7.0/plugin/print-pdf/print-pdf.js', async: true },
+      
+      { src: '\/js\/vendor\/reveal.js\/plugin\/notes\/notes.js', async: true }
+    ]};
+
+    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true };
+    let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
+    Reveal.initialize(revealOptions);
+  </script>
+
+</body>
+</html>
